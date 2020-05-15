@@ -5,6 +5,7 @@ A playlist completa do tutorial pode ser acessada aqui: https://www.youtube.com/
 
 Assista, tente e aprenda fazendo! Bom proveito.
 
+<br>
 
 Professor Diogo Vargas
 
