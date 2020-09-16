@@ -11,11 +11,11 @@ LINE Normal -54 31 -48 32
 LINE Normal -49 26 -54 31
 LINE Normal -112 0 -95 0
 CIRCLE Normal -11 41 -94 -42
-WINDOW 0 21 -9 Bottom 2
-WINDOW 3 45 0 Top 2
-SYMATTR Prefix X
+WINDOW 0 48 -31 Bottom 2
+WINDOW 3 48 0 Bottom 2
 SYMATTR Value BJT_ideal
-SYMATTR ModelFile D:\Videos\Meu Youtube\LTspice\SpiceModel_BJT_Ideal.mod
+SYMATTR Prefix X
+SYMATTR ModelFile SpiceModel_BJT_Ideal.mod
 PIN -48 -48 LEFT 8
 PINATTR PinName C
 PINATTR SpiceOrder 1
