@@ -9,10 +9,14 @@ Assista, tente e aprenda fazendo! Bom proveito.
 
 Professor Diogo Vargas
 
+<br>
+
 UTFPR câmpus Pato Branco
+
 Universidade Tecnológica Federal do Paraná
 
 &
 
 UFSM câmpus Cachoeira do Sul
+
 Universidade Federal de Santa Maria
